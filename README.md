@@ -1,4 +1,12 @@
-# myapp
+# App-for-your-crush
+##Halaman Awal
+![alt text](https://github.com/okedane/App-for-your-crush/blob/main/aseets/image/love.png?raw=true)
+
+##No
+![alt text](https://github.com/okedane/App-for-your-crush/blob/main/aseets/image/no.png?raw=true)
+
+
+
 
 A new Flutter project.
 
